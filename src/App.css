@@ -1,9 +1,5 @@
 @import "~antd/dist/antd.css";
 
-.App {
-  /* text-align: center; */
-}
-
 .App-header {
   background-color: #282c34;
   display: flex;
@@ -38,13 +34,6 @@
 }
 
 /* STYLES FOR INVENTORY */
-/* .inventory {
-  text-align: center;
-} */
-.inventory-title {
-  /* text-align: center; */
-}
 .inventory-list {
   padding: 0 15rem;
-  /* text-align: center; */
 }

@@ -7,7 +7,7 @@ import Library from "./library/Library";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <header className="App-header">
         <span>FireBookStore</span>
       </header>
